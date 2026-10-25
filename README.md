@@ -2,6 +2,8 @@
 
 **WWE 2K14 (Xbox 360) running natively on a jailbroken PS5**, at up to 1440p.
 
+[![Get it on RecompStore](https://recompstore.com/assets/press/badge-dark.svg)](https://recompstore.com/game/PPSA92014)
+
 > ### Built on WWE 2K14 Recomp by PromethenDev
 > This port is based on **[WWE 2K14 Recomp](https://github.com/PromethenDev/wwe2k14-recomp)**, PromethenDev's native recompilation of WWE 2K14 for PC. His work is the backbone of this project: this release takes it to the PS5. Go check out and support the original project.
 
